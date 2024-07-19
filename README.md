@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-My name is Josua Blejeru, I'm 23 years old living in Nürnberg, Germany.
+My name is Josua Blejeru, I'm 24 years old living in Nürnberg, Germany.
 
 🔭 At my Dayjob I focus on DevOps, Cloud, Architecture and Data Engineering.
 
